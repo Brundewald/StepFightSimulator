@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4a62b4870ee4ea3aa6684abd6aef3ec, type: 3}
+  m_Name: NPCBehavior
+  m_EditorClassIdentifier: 
+  _offenceStats:
+  - LH: 2
+    RH: 0
+    LUB: 0
+    RUB: 1
+    LMB: 0
+    RMB: 1
+    LLB: 0
+    RLB: 0
+  - LH: 1
+    RH: 1
+    LUB: 0
+    RUB: 0
+    LMB: 0
+    RMB: 1
+    LLB: 1
+    RLB: 0
+  - LH: 0
+    RH: 0
+    LUB: 3
+    RUB: 1
+    LMB: 0
+    RMB: 0
+    LLB: 0
+    RLB: 0
+  _defenceStats:
+  - LH: 1
+    RH: 1
+    LUB: 0
+    RUB: 1
+    LMB: 1
+    RMB: 0
+    LLB: 0
+    RLB: 0
+  - LH: 0
+    RH: 1
+    LUB: 1
+    RUB: 0
+    LMB: 1
+    RMB: 0
+    LLB: 1
+    RLB: 0
+  - LH: 1
+    RH: 0
+    LUB: 0
+    RUB: 1
+    LMB: 1
+    RMB: 0
+    LLB: 0
+    RLB: 1
